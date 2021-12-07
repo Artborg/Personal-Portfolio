@@ -450,4 +450,14 @@ form {
   .pheno {
     margin-bottom: 2rem;
   }
+
+  .hero-img {
+    width: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-img {
+    width: 300px;
+  }
 }
